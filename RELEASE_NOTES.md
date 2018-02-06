@@ -1,3 +1,6 @@
+### Version 0.0.2
+- added icon
+
 ### Version 0.0.1
 __Initial version of the wrapper for MiniASM assembler__
 - MiniASM is in https://github.com/lh3/miniasm
